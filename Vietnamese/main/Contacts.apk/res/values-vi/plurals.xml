@@ -24,11 +24,11 @@
     <plurals name="group_list_num_contacts_in_group">
         <item quantity="other">%1$d người</item>
     </plurals>
-    <plurals name="group_list_num_numbers_in_group">
-        <item quantity="other">%1$d số</item>
-    </plurals>
     <plurals name="notification_voicemail_title">
         <item quantity="other">%1$d Thư thoại</item>
+    </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">%1$d số</item>
     </plurals>
     <plurals name="export_sim_contacts_dialog_message">
         <item quantity="other">Thẻ SIM có thể lưu %d liên hệ.</item>
@@ -61,7 +61,7 @@
         <item quantity="other">%1$d liên hệ gần đây</item>
     </plurals>
     <plurals name="group_add_success_toast">
-        <item quantity="other">"Đã thêm %1$d liên hệ"</item>
+        <item quantity="other">Đã thêm %1$d liên hệ</item>
     </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Xóa %d liên hệ</item>

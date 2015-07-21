@@ -307,4 +307,15 @@
         <item>Bị chặn</item>
         <item>Tạm thời tránh kết nối kém</item>
     </string-array>
+    <string-array name="special_locale_codes">
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+        <item>zh_HK</item>
+        <item>vi_VN</item>
+    </string-array>
+    <string-array name="special_locale_names">
+        <item>中文 (简体)</item>
+        <item>繁體中文 (台灣)</item>
+        <item>繁體中文 (香港)</item>
+        <item>Tiếng Việt</item>
 </resources>
