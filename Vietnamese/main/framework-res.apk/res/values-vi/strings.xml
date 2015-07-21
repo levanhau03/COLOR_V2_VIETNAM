@@ -147,12 +147,10 @@
     <string name="silent_mode_vibrate">Chuông rung</string>
     <string name="silent_mode_ring">Bật chuông</string>
     <string name="shutdown_progress">Đang tắt…</string>
-    <string name="reboot_progress">Đang khởi động lại…</string>
     <string name="shutdown_confirm">Điện thoại của bạn sẽ tắt.</string>
     <string name="shutdown_confirm_question">Bạn có muốn tắt không?</string>
     <string name="reboot_safemode_title">Khởi động lại ở chế độ an toàn</string>
     <string name="reboot_safemode_confirm">Bạn có muốn khởi động lại ở chế độ an toàn không? Thao tác này sẽ tắt tất cả ứng dụng của bên thứ ba mà bạn đã cài đặt. Những ứng dụng này sẽ được khôi phục khi bạn khởi động lại một lần nữa.</string>
-    <string name="reboot_confirm">Điện thoại sẽ khởi động lại.</string>
     <string name="recent_tasks_title">Gần đây</string>
     <string name="no_recent_tasks">Không có ứng dụng nào gần đây.</string>
     <string name="global_actions">Tùy chọn điện thoại</string>
@@ -734,8 +732,6 @@
     <string name="keyguard_password_enter_password_code">Nhập mật khẩu để mở khóa</string>
     <string name="keyguard_password_enter_pin_password_code">Nhập mã PIN để mở khóa</string>
     <string name="keyguard_password_wrong_pin_code">Mã PIN không chính xác.</string>
-    <string name="pinpuk_attempts">"
-Lần thử còn lại: "</string>
     <string name="keyguard_label_text">Để mở khóa, hãy nhấn vào Trình đơn sau đó nhấn 0.</string>
     <string name="emergency_call_dialog_number_for_display">Số khẩn cấp</string>
     <string name="lockscreen_carrier_default">Không có dịch vụ nào.</string>
@@ -766,13 +762,11 @@ Hãy liên hệ với nhà cung cấp dịch vụ không dây của bạn để 
     <string name="lockscreen_transport_play_description">Nút phát</string>
     <string name="lockscreen_transport_stop_description">Nút dừng</string>
     <string name="emergency_calls_only">Chỉ cuộc gọi khẩn cấp</string>
-    <string name="lockscreen_sim_error_message_short">Thẻ SIM không hợp lệ.</string>
     <string name="lockscreen_network_locked_message">Mạng đã khóa</string>
     <string name="lockscreen_sim_puk_locked_message">Thẻ SIM đã bị khóa PUK.</string>
     <string name="lockscreen_sim_puk_locked_instructions">Vui lòng xem Hướng dẫn người dùng hoặc liên hệ với Bộ phận chăm sóc khách hàng.</string>
     <string name="lockscreen_sim_locked_message">Thẻ SIM đã bị khóa.</string>
     <string name="lockscreen_sim_unlock_progress_dialog_message">Đang mở khóa thẻ SIM…</string>
-    <string name="lockscreen_airplane_mode_on">Chế độ máy bay</string>
     <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Bạn đã %d lần vẽ không chính xác hình mở khóa của mình. 
 
 Vui lòng thử lại sau %d giây."</string>
@@ -1172,7 +1166,6 @@ cho tài khoản %s."</string>
     <string name="find_on_page">Tìm kiếm trên trang</string>
     <string name="action_mode_done">Xong</string>
     <string name="progress_unmounting">Đang ngắt kết nối bộ lưu trữ USB…</string>
-    <string name="progress_nomediapresent">Hiện không có phương tiện có thể tháo rời nào…</string>
     <string name="progress_erasing">Đang xóa bộ lưu trữ USB…</string>
     <string name="format_error">Không thể xóa bộ nhớ USB.</string>
     <string name="media_bad_removal">Thẻ SD bị tháo trước khi được ngắt kết nối.</string>
@@ -1246,7 +1239,6 @@ cho tài khoản %s."</string>
     <string name="storage_internal">Bộ nhớ trong</string>
     <string name="storage_sd_card">Thẻ SD</string>
     <string name="storage_usb">Bộ lưu trữ USB</string>
-    <string name="storage_uicc">Bộ lưu trữ UICC</string>
     <string name="extract_edit_menu_button">Chỉnh sửa</string>
     <string name="data_usage_warning_title">Cảnh báo sử dụng dữ liệu</string>
     <string name="data_usage_warning_body">Chạm để xem sử dụng và cài đặt.</string>
@@ -1468,15 +1460,6 @@ Nghe ở mức âm lượng cao trong thời gian dài có thể gây hại cho 
     <string name="restr_pin_error_too_short">Mã PIN quá ngắn. Phải có ít nhất 4 chữ số.</string>
     <string name="restr_pin_try_later">Hãy thử lại sau</string>
     <string name="immersive_mode_confirmation">Vuốt từ trên xuống để thoát toàn màn hình.</string>
-    <string name="transient_navigation_confirmation_long">Vuốt từ mép màn hình để hiển thị thanh hệ thống</string>
-    <string name="stk_cc_ussd_to_dial">Yêu cầu USSD được sửa đổi để yêu cầu QUAY SỐ.</string>
-    <string name="stk_cc_ussd_to_ss">Yêu cầu USSD được sửa đổi để yêu cầu SS.</string>
-    <string name="stk_cc_ussd_to_ussd">Yêu cầu USSD được sửa đổi để yêu cầu USSD mới.</string>
-    <string name="stk_cc_ss_to_dial">Yêu cầu SS được sửa đổi để yêu cầu QUAY SỐ.</string>
-    <string name="stk_cc_ss_to_ussd">Yêu cầu SS được sửa đổi để yêu cầu USSD.</string>
-    <string name="stk_cc_ss_to_ss">Yêu cầu SS được sửa đổi để yêu cầu SS mới.</string>
-    <string name="permission_remember_choice">Nhớ</string>
-    <string name="permission">Quyền</string>
     <string name="webviewchromium_actionbar_share">Chia sẻ</string>
     <string name="webviewchromium_actionbar_web_search">Tìm kiếm trên web</string>
     <string name="webviewchromium_accessibility_content_view">Chế độ xem web</string>
@@ -1531,4 +1514,21 @@ Nghe ở mức âm lượng cao trong thời gian dài có thể gây hại cho 
     <string name="webviewchromium_profiler_stopped_toast">Đã hoàn tất profiler. Kết quả có trong %1$s.</string>
     <string name="webviewchromium_profiler_no_storage_toast">Không thể chạy profiler do bộ nhớ ngoài chưa sẵn sàng</string>
     <string name="webviewchromium_profiler_error_toast">Không chạy profiler được</string>
+    <string name="reboot_progress">Đang khởi động lại…</string>
+    <string name="reboot_confirm">Điện thoại sẽ khởi động lại.</string>
+    <string name="pinpuk_attempts">"
+Lần thử còn lại: "</string>
+    <string name="lockscreen_sim_error_message_short">Thẻ SIM không hợp lệ.</string>
+    <string name="lockscreen_airplane_mode_on">Chế độ máy bay</string>
+    <string name="progress_nomediapresent">Hiện không có phương tiện có thể tháo rời nào…</string>
+    <string name="storage_uicc">Bộ lưu trữ UICC</string>
+    <string name="transient_navigation_confirmation_long">Vuốt từ mép màn hình để hiển thị thanh hệ thống</string>
+    <string name="stk_cc_ussd_to_dial">Yêu cầu USSD được sửa đổi để yêu cầu QUAY SỐ.</string>
+    <string name="stk_cc_ussd_to_ss">Yêu cầu USSD được sửa đổi để yêu cầu SS.</string>
+    <string name="stk_cc_ussd_to_ussd">Yêu cầu USSD được sửa đổi để yêu cầu USSD mới.</string>
+    <string name="stk_cc_ss_to_dial">Yêu cầu SS được sửa đổi để yêu cầu QUAY SỐ.</string>
+    <string name="stk_cc_ss_to_ussd">Yêu cầu SS được sửa đổi để yêu cầu USSD.</string>
+    <string name="stk_cc_ss_to_ss">Yêu cầu SS được sửa đổi để yêu cầu SS mới.</string>
+    <string name="permission_remember_choice">Nhớ</string>
+    <string name="permission">Quyền</string>
 </resources>
