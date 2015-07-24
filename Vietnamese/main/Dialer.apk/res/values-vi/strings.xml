@@ -628,7 +628,6 @@
     <string name="oppo_add_photo">"Thêm
  hình ảnh"</string>
     <string name="oppo_contacts_account">Tài khoản</string>
-    <string name="weather_info_update">Cập nhật thông tin thời tiết</string>
     <string name="launcherDialer">Điện thoại</string>
     <string name="people">Danh bạ</string>
     <string name="contactsList">Danh bạ</string>
@@ -1167,4 +1166,5 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="dialog_phone_call_prohibited_title">Không thể thực hiện cuộc gọi</string>
     <string name="dialog_voicemail_not_ready_title">Số thư thoại không khả dụng</string>
     <string name="dialog_voicemail_not_ready_message">Để thiết lập thư thoại, đi tới Trình đơn > Cài đặt.</string>
+    <string name="weather_info_update">Cập nhật thông tin thời tiết</string>
 </resources>
