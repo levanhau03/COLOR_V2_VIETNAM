@@ -2152,4 +2152,8 @@ Bất kỳ người dùng nào cũng có thể chấp nhận các quyền của 
     <string name="oppo_app_install_location_entries_removable_sd">Lưu trữ hệ thống;Lưu trữ điện thoại;Do hệ thống xác định</string>
     <string name="oppo_app_install_location_entries_unremovable_sd">Lưu trữ hệ thống;Lưu trữ điện thoại;Do hệ thống xác định</string>
     <string name="sound_effect_title">âm thanh chung</string>
+    <string name="storage_settings_new">Không gian lưu trữ</string>	
+    <string name="power_and_storage_settings">Nguồn và Lưu trữ</string>	
+    <string name="header_category_power">Nguồn</string>	
+    <string name="power_settings_new_summary"> Còn lại</string>	
 </resources>
